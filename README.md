@@ -1,3 +1,9 @@
+# FreeCodeCamp-Vue-for-Beginners
+
+## Description
+This is a FreeCodeCamp practice project that is part of their Vue for Beginners 2019 Vue video. Go here to see the requirements:
+https://www.youtube.com/watch?v=4deVCNJq3qc
+
 # quiz
 
 ## Project setup
