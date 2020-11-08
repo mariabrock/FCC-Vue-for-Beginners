@@ -1,5 +1,18 @@
 <template>
-  <div>
-    <h1>Question Box here</h1>
+  <div calss="question-box-container">
+    <b-jumbotron>
+      <template #lead>
+        Some question here.
+      </template>
+
+      <hr class="my-4">
+
+      <p>
+        List of answers.
+      </p>
+
+      <b-button variant="success" href="#">Submit</b-button>
+      <b-button variant="primary" href="#">Next</b-button>
+    </b-jumbotron>
   </div>
 </template>
